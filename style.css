@@ -1,0 +1,30 @@
+body { 
+    margin: 0; 
+}
+
+
+.cont-1 {
+	display:flex;
+	background-color:#28272e;
+	color:#ffffff;
+	font-family: Copperplate;
+	font-size:24px;
+	text-decoration:none;
+		
+
+}
+
+.cont-1-1 {
+	width:2000px;
+	margin:10px;
+	
+}
+
+.cont-1-2 {
+	width:150px;
+	margin:10px;	
+}
+
+.cont-1-3 {
+	margin:10px;
+}
