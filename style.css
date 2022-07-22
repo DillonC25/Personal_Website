@@ -39,6 +39,11 @@ img {
 	margin-left:0px;
 }
 
+cont-3:hover {
+  color: black;
+  text-decoration: none;
+}
+
 .cont-3 {
 	display:flex;
 	color:#4e545e;
